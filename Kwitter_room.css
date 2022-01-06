@@ -1,0 +1,23 @@
+body{
+    background-color: lightsalmon;
+}
+
+#room_name{
+    width : 300px;
+}
+
+center{
+    background-color: lightseagreen;
+    color : white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#img {
+    height : 50px;
+    width : 50px;
+}
+
+button{
+    margin : 10px;
+}

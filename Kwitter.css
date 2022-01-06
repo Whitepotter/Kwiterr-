@@ -1,0 +1,22 @@
+#messaging_img{
+    height : 100%;
+    width : 30%;
+    float : left;
+}
+
+#user_name{
+    width : 200px;
+}
+
+.login_div{
+    background-color: lightblue;
+    width : 500px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    margin-left : 420px;
+}
+
+#first_page{
+    background-color: lightpink;
+}
